@@ -5,15 +5,15 @@ ignoredBuiltDependencies:
   - sharp
   - unrs-resolver
 minimumReleaseAgeExclude:
-  - '@next/env@16.3.0-canary.62'
-  - '@next/eslint-plugin-next@16.3.0-canary.62'
-  - '@next/swc-darwin-arm64@16.3.0-canary.62'
-  - '@next/swc-darwin-x64@16.3.0-canary.62'
-  - '@next/swc-linux-arm64-gnu@16.3.0-canary.62'
-  - '@next/swc-linux-arm64-musl@16.3.0-canary.62'
-  - '@next/swc-linux-x64-gnu@16.3.0-canary.62'
-  - '@next/swc-linux-x64-musl@16.3.0-canary.62'
-  - '@next/swc-win32-arm64-msvc@16.3.0-canary.62'
-  - '@next/swc-win32-x64-msvc@16.3.0-canary.62'
-  - eslint-config-next@16.3.0-canary.62
-  - next@16.3.0-canary.62
+  - '@next/env'
+  - '@next/eslint-plugin-next'
+  - '@next/swc-darwin-arm64'
+  - '@next/swc-darwin-x64'
+  - '@next/swc-linux-arm64-gnu'
+  - '@next/swc-linux-arm64-musl'
+  - '@next/swc-linux-x64-gnu'
+  - '@next/swc-linux-x64-musl'
+  - '@next/swc-win32-arm64-msvc'
+  - '@next/swc-win32-x64-msvc'
+  - eslint-config-next
+  - next
